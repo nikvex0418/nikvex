@@ -1,0 +1,1 @@
+NIKVEX TECHNOLOGY Modern Tech redesign. Open index.html with VS Code Live Server. Netlify inquiry form configured; test submissions after deployment. Concept projects are fictional demonstrations. Upcoming services are separate from current services.
